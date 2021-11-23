@@ -1,0 +1,11 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-right: 10px;
+    width: 100%;
+    background-color: aquamarine;
+}
+th{
+    background-color: burlywood;
+}
+   
